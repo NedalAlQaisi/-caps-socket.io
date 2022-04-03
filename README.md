@@ -18,6 +18,7 @@
 ![](./caps-socket.png)
 
 # Links:
-* [PR]()
 
-* [Actions]()
+* [PR](https://github.com/NedalAlQaisi/caps-socket.io/pull/2)
+
+* [Actions](https://github.com/NedalAlQaisi/caps-socket.io/actions)
