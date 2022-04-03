@@ -1,0 +1,30 @@
+{
+  "name": "caps-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "jest --forceExit",
+    "dev": "nodemon caps.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NedalAlQaisi/caps-socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NedalAlQaisi/caps-socket.io/issues"
+  },
+  "homepage": "https://github.com/NedalAlQaisi/caps-socket.io#readme",
+  "keywords": [],
+  "dependencies": {
+    "@faker-js/faker": "^6.1.1",
+    "dotenv": "^16.0.0",
+    "package": "^1.0.1",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
